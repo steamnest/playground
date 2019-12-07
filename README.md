@@ -1,4 +1,4 @@
-# NaijaHacks 2018
+# NaijaHacks Hackathon 2018
 # Team steamnest
 # Team Members
    Sydney Jasmine-Daka
